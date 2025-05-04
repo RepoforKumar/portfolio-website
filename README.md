@@ -1,2 +1,2 @@
 # portfolio-website
-This is a repo holding my portfolio details
+This is a repo holding my portfolio details.
